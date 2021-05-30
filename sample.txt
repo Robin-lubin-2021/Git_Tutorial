@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 连猴子都懂的Git命令。
+=======
+Git commands that even monkeys understand.
+>>>>>>> c118182dbdd8a21da72b47cade0b3ae452868d47
